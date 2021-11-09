@@ -1,0 +1,4 @@
+<resources>
+    <string name="default_notification_channel_id">some_id_for_notification</string>
+    <string name="app_name">firebase_iam</string>
+</resources>

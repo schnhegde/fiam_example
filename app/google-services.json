@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "562761179217",
+    "project_id": "fir-iam-example",
+    "storage_bucket": "fir-iam-example.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:562761179217:android:4fa9158654b5b535b19870",
+        "android_client_info": {
+          "package_name": "com.schnhegde.fiam"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "562761179217-c6iqip9b7g0ea29sl2irugjuhv1ucln5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAgrSxvEBQFvrffUM0eHSUI5vT9WdArS9E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "562761179217-c6iqip9b7g0ea29sl2irugjuhv1ucln5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
